@@ -10,7 +10,7 @@ fs.readdir(__dirname + "/data", (error, dir) => {
   }
   for (const path of dir) {
     if (path.match(regex)) {
-      console.log("Got dir", path);
+      console.log("Fixing", path);
       const filePath = `data/${path}`;
       fs.readFile(filePath, {}, (err, data) => {
         const file = data.toString();
