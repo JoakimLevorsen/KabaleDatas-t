@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>IMG_8866.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\IMG_8866.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>154</ymin>
+			<xmax>457</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>

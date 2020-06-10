@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>_20200422_140935.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\_20200422_140935.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>141</ymin>
+			<xmax>446</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+</annotation>

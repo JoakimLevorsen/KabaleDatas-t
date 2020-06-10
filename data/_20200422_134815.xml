@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>_20200422_134815.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\_20200422_134815.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>582</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>121</ymin>
+			<xmax>473</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

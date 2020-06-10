@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>_20200422_134934.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\_20200422_134934.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>121</ymin>
+			<xmax>431</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>
