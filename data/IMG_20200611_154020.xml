@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataindsamling_7kabale</folder>
+	<filename>IMG_20200611_154020.jpg</filename>
+	<path>C:\Local_great_size\dataindsamling_7kabale\IMG_20200611_154020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>199</ymin>
+			<xmax>812</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>
