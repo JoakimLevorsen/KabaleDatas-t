@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200401_154642.jpg</filename>
+	<path>C:\Users\Christoffer\Desktop\pythontests\cardrec\cards\train\IMG_20200401_154642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2976</width>
+		<height>3968</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>777</ymin>
+			<xmax>2271</xmax>
+			<ymax>2677</ymax>
+		</bndbox>
+	</object>
+</annotation>
