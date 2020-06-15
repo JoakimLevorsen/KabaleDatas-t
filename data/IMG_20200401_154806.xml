@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
+	<folder>New folder</folder>
 	<filename>IMG_20200401_154806.jpg</filename>
-	<path>C:\Users\Christoffer\Desktop\pythontests\cardrec\cards\train\IMG_20200401_154806.jpg</path>
+	<path>C:\Users\Christoffer\Desktop\img\New folder\IMG_20200401_154806.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2976</width>
-		<height>3968</height>
+		<width>744</width>
+		<height>992</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>651</xmin>
-			<ymin>1744</ymin>
-			<xmax>2544</xmax>
-			<ymax>3957</ymax>
+			<xmin>185</xmin>
+			<ymin>458</ymin>
+			<xmax>240</xmax>
+			<ymax>610</ymax>
 		</bndbox>
 	</object>
 </annotation>

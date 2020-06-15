@@ -1,26 +1,26 @@
 <annotation>
-	<folder>train</folder>
+	<folder>New folder</folder>
 	<filename>IMG_20200401_155034.jpg</filename>
-	<path>C:\Users\Christoffer\Desktop\pythontests\cardrec\cards\train\IMG_20200401_155034.jpg</path>
+	<path>C:\Users\Christoffer\Desktop\img\New folder\IMG_20200401_155034.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2976</width>
-		<height>3968</height>
+		<width>744</width>
+		<height>992</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>10D</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>338</xmin>
-			<ymin>1904</ymin>
-			<xmax>2947</xmax>
-			<ymax>3968</ymax>
+			<xmin>146</xmin>
+			<ymin>522</ymin>
+			<xmax>315</xmax>
+			<ymax>865</ymax>
 		</bndbox>
 	</object>
 </annotation>
