@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>IMG_20200401_155605.jpg</filename>
+	<path>C:\Users\Christoffer\Desktop\img\New folder\IMG_20200401_155605.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>744</width>
+		<height>992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>198</ymin>
+			<xmax>248</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>
