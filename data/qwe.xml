@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>qwe.jpg</filename>
+	<path>C:\Users\Christoffer\Desktop\pythontests\cardrec\cards\train\qwe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1057</width>
+		<height>641</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>54</ymin>
+			<xmax>1052</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>
