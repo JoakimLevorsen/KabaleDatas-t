@@ -1,7 +1,7 @@
 <annotation>
-	<folder>compressed_1106</folder>
+	<folder>E_263</folder>
 	<filename>IMG_20200611_111632.jpg</filename>
-	<path>C:\Local_great_size\dataindsamling_7kabale\compressed_1106\IMG_20200611_111632.jpg</path>
+	<path>C:\Local_great_size\GitHub\KabaleDatas-t\revamped_data\E_263\IMG_20200611_111632.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>377</xmin>
-			<ymin>182</ymin>
-			<xmax>567</xmax>
-			<ymax>267</ymax>
+			<xmin>382</xmin>
+			<ymin>188</ymin>
+			<xmax>406</xmax>
+			<ymax>249</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>354</xmin>
-			<ymin>261</ymin>
-			<xmax>536</xmax>
-			<ymax>536</ymax>
+			<xmin>372</xmin>
+			<ymin>260</ymin>
+			<xmax>400</xmax>
+			<ymax>321</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>595</xmin>
-			<ymin>232</ymin>
-			<xmax>789</xmax>
-			<ymax>312</ymax>
+			<xmin>605</xmin>
+			<ymin>234</ymin>
+			<xmax>631</xmax>
+			<ymax>299</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>592</xmin>
-			<ymin>309</ymin>
-			<xmax>782</xmax>
-			<ymax>586</ymax>
+			<xmin>599</xmin>
+			<ymin>311</ymin>
+			<xmax>625</xmax>
+			<ymax>368</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,22 +113,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>824</xmin>
-			<ymin>184</ymin>
-			<xmax>1007</xmax>
-			<ymax>270</ymax>
+			<xmin>822</xmin>
+			<ymin>190</ymin>
+			<xmax>855</xmax>
+			<ymax>251</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>7D</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>816</xmin>
-			<ymin>267</ymin>
-			<xmax>1024</xmax>
-			<ymax>536</ymax>
+			<xmin>821</xmin>
+			<ymin>270</ymin>
+			<xmax>844</xmax>
+			<ymax>325</ymax>
 		</bndbox>
 	</object>
 </annotation>

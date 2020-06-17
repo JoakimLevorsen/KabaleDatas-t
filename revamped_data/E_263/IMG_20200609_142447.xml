@@ -1,7 +1,7 @@
 <annotation>
-	<folder>compressed_0906</folder>
+	<folder>E_263</folder>
 	<filename>IMG_20200609_142447.jpg</filename>
-	<path>C:\Local_great_size\dataindsamling_7kabale\compressed_0906\IMG_20200609_142447.jpg</path>
+	<path>C:\Local_great_size\GitHub\KabaleDatas-t\revamped_data\E_263\IMG_20200609_142447.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>212</xmin>
-			<ymin>57</ymin>
-			<xmax>478</xmax>
-			<ymax>164</ymax>
+			<xmin>219</xmin>
+			<ymin>67</ymin>
+			<xmax>255</xmax>
+			<ymax>149</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>135</xmin>
-			<ymin>168</ymin>
-			<xmax>451</xmax>
-			<ymax>608</ymax>
+			<xmin>168</xmin>
+			<ymin>179</ymin>
+			<xmax>211</xmax>
+			<ymax>269</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>489</xmin>
-			<ymin>56</ymin>
-			<xmax>762</xmax>
-			<ymax>168</ymax>
+			<xmin>492</xmin>
+			<ymin>62</ymin>
+			<xmax>529</xmax>
+			<ymax>141</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>474</xmin>
-			<ymin>148</ymin>
-			<xmax>755</xmax>
-			<ymax>253</ymax>
+			<xmin>482</xmin>
+			<ymin>144</ymin>
+			<xmax>521</xmax>
+			<ymax>224</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,70 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>428</xmin>
-			<ymin>229</ymin>
-			<xmax>755</xmax>
-			<ymax>693</ymax>
+			<xmin>458</xmin>
+			<ymin>230</ymin>
+			<xmax>506</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>7S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>175</ymin>
+			<xmax>443</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>QH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>76</ymin>
+			<xmax>472</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>708</xmin>
+			<ymin>90</ymin>
+			<xmax>745</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>255</ymin>
+			<xmax>735</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>702</xmin>
+			<ymin>176</ymin>
+			<xmax>744</xmax>
+			<ymax>250</ymax>
 		</bndbox>
 	</object>
 </annotation>

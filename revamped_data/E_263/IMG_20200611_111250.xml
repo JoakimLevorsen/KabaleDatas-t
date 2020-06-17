@@ -1,7 +1,7 @@
 <annotation>
-	<folder>compressed_1106</folder>
+	<folder>E_263</folder>
 	<filename>IMG_20200611_111250.jpg</filename>
-	<path>C:\Local_great_size\dataindsamling_7kabale\compressed_1106\IMG_20200611_111250.jpg</path>
+	<path>C:\Local_great_size\GitHub\KabaleDatas-t\revamped_data\E_263\IMG_20200611_111250.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>161</xmin>
-			<ymin>130</ymin>
-			<xmax>441</xmax>
-			<ymax>234</ymax>
+			<xmin>167</xmin>
+			<ymin>135</ymin>
+			<xmax>202</xmax>
+			<ymax>216</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>221</ymin>
-			<xmax>427</xmax>
-			<ymax>635</ymax>
+			<xmin>155</xmin>
+			<ymin>234</ymin>
+			<xmax>194</xmax>
+			<ymax>326</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>632</xmin>
-			<ymin>100</ymin>
-			<xmax>899</xmax>
-			<ymax>200</ymax>
+			<xmin>633</xmin>
+			<ymin>109</ymin>
+			<xmax>673</xmax>
+			<ymax>193</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>641</xmin>
-			<ymin>199</ymin>
-			<xmax>934</xmax>
-			<ymax>589</ymax>
+			<xmin>646</xmin>
+			<ymin>202</ymin>
+			<xmax>689</xmax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 </annotation>
