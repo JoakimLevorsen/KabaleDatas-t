@@ -1,7 +1,7 @@
 <annotation>
-	<folder>xml-filer</folder>
+	<folder>Ny labelstrategi</folder>
 	<filename>DSC_0744_compress53.jpg</filename>
-	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\DSC_0744_compress53.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\Ny labelstrategi\DSC_0744_compress53.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>220</xmin>
-			<ymin>454</ymin>
-			<xmax>1027</xmax>
-			<ymax>1516</ymax>
+			<xmin>348</xmin>
+			<ymin>497</ymin>
+			<xmax>465</xmax>
+			<ymax>716</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>344</xmin>
-			<ymin>107</ymin>
-			<xmax>1034</xmax>
-			<ymax>454</ymax>
+			<xmin>398</xmin>
+			<ymin>152</ymin>
+			<xmax>506</xmax>
+			<ymax>354</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1144</xmin>
-			<ymin>392</ymin>
-			<xmax>1894</xmax>
-			<ymax>1428</ymax>
+			<xmin>1201</xmin>
+			<ymin>423</ymin>
+			<xmax>1298</xmax>
+			<ymax>647</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1177</xmin>
-			<ymin>73</ymin>
-			<xmax>1820</xmax>
-			<ymax>390</ymax>
+			<xmin>1206</xmin>
+			<ymin>111</ymin>
+			<xmax>1296</xmax>
+			<ymax>321</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1910</xmin>
-			<ymin>168</ymin>
-			<xmax>2706</xmax>
-			<ymax>1133</ymax>
+			<xmin>1946</xmin>
+			<ymin>209</ymin>
+			<xmax>2044</xmax>
+			<ymax>421</ymax>
 		</bndbox>
 	</object>
 </annotation>

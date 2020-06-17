@@ -1,7 +1,7 @@
 <annotation>
-	<folder>xml-filer</folder>
+	<folder>Ny labelstrategi</folder>
 	<filename>DSC_0728_compress51.jpg</filename>
-	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\DSC_0728_compress51.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\Ny labelstrategi\DSC_0728_compress51.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>68</xmin>
-			<ymin>122</ymin>
-			<xmax>490</xmax>
-			<ymax>622</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>8H</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>170</xmin>
-			<ymin>53</ymin>
-			<xmax>494</xmax>
-			<ymax>127</ymax>
+			<xmin>165</xmin>
+			<ymin>140</ymin>
+			<xmax>215</xmax>
+			<ymax>241</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>475</xmin>
-			<ymin>209</ymin>
-			<xmax>876</xmax>
-			<ymax>739</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>QD</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>507</xmin>
-			<ymin>127</ymin>
-			<xmax>829</xmax>
-			<ymax>213</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>KC</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>514</xmin>
-			<ymin>51</ymin>
-			<xmax>831</xmax>
-			<ymax>132</ymax>
+			<xmin>518</xmin>
+			<ymin>229</ymin>
+			<xmax>565</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,34 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>865</xmin>
-			<ymin>200</ymin>
-			<xmax>1287</xmax>
-			<ymax>722</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>7H</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>852</xmin>
-			<ymin>125</ymin>
-			<xmax>1184</xmax>
-			<ymax>206</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>JH</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>849</xmin>
-			<ymin>50</ymin>
-			<xmax>1168</xmax>
-			<ymax>126</ymax>
+			<xmin>875</xmin>
+			<ymin>221</ymin>
+			<xmax>925</xmax>
+			<ymax>323</ymax>
 		</bndbox>
 	</object>
 </annotation>

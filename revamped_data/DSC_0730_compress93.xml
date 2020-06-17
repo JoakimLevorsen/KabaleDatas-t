@@ -1,7 +1,7 @@
 <annotation>
-	<folder>xml-filer</folder>
+	<folder>Ny labelstrategi</folder>
 	<filename>DSC_0730_compress93.jpg</filename>
-	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\DSC_0730_compress93.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\Ny labelstrategi\DSC_0730_compress93.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>48</xmin>
-			<ymin>158</ymin>
-			<xmax>502</xmax>
-			<ymax>746</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>QD</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>136</xmin>
-			<ymin>64</ymin>
-			<xmax>507</xmax>
-			<ymax>162</ymax>
+			<xmin>134</xmin>
+			<ymin>181</ymin>
+			<xmax>189</xmax>
+			<ymax>305</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>500</xmin>
-			<ymin>151</ymin>
-			<xmax>920</xmax>
-			<ymax>722</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>9D</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>530</xmin>
-			<ymin>61</ymin>
-			<xmax>883</xmax>
-			<ymax>155</ymax>
+			<xmin>538</xmin>
+			<ymin>170</ymin>
+			<xmax>592</xmax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>908</xmin>
-			<ymin>152</ymin>
-			<xmax>1342</xmax>
-			<ymax>722</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>4C</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>904</xmin>
-			<ymin>62</ymin>
-			<xmax>1256</xmax>
-			<ymax>162</ymax>
+			<xmin>925</xmin>
+			<ymin>178</ymin>
+			<xmax>985</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 </annotation>

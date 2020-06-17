@@ -1,7 +1,7 @@
 <annotation>
-	<folder>2.0</folder>
+	<folder>Ny labelstrategi</folder>
 	<filename>DSC_0748_compress8.jpg</filename>
-	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\2.0\DSC_0748_compress8.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\Ny labelstrategi\DSC_0748_compress8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>95</xmin>
-			<ymin>50</ymin>
-			<xmax>395</xmax>
-			<ymax>449</ymax>
+			<xmin>142</xmin>
+			<ymin>68</ymin>
+			<xmax>178</xmax>
+			<ymax>141</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>405</xmin>
-			<ymin>175</ymin>
-			<xmax>705</xmax>
-			<ymax>588</ymax>
+			<xmin>448</xmin>
+			<ymin>182</ymin>
+			<xmax>483</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,58 +41,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>760</xmin>
-			<ymin>269</ymin>
-			<xmax>1075</xmax>
-			<ymax>716</ymax>
+			<xmin>772</xmin>
+			<ymin>277</ymin>
+			<xmax>807</xmax>
+			<ymax>365</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>BACK</name>
+		<name>2H</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>455</xmin>
-			<ymin>42</ymin>
-			<xmax>725</xmax>
-			<ymax>176</ymax>
+			<xmin>341</xmin>
+			<ymin>60</ymin>
+			<xmax>377</xmax>
+			<ymax>132</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>BACK</name>
+		<name>AS</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>758</xmin>
-			<ymin>147</ymin>
-			<xmax>1030</xmax>
-			<ymax>272</ymax>
+			<xmin>651</xmin>
+			<ymin>183</ymin>
+			<xmax>687</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>BACK</name>
+		<name>4D</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>756</xmin>
-			<ymin>50</ymin>
-			<xmax>1022</xmax>
-			<ymax>152</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>BACK</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1052</xmin>
-			<ymin>52</ymin>
-			<xmax>1360</xmax>
-			<ymax>436</ymax>
+			<xmin>985</xmin>
+			<ymin>282</ymin>
+			<xmax>1020</xmax>
+			<ymax>364</ymax>
 		</bndbox>
 	</object>
 </annotation>

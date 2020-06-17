@@ -1,7 +1,7 @@
 <annotation>
-	<folder>xml-filer</folder>
+	<folder>Ny labelstrategi</folder>
 	<filename>DSC_0720_compress5.jpg</filename>
-	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\DSC_0720_compress5.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\Ny labelstrategi\DSC_0720_compress5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5</xmin>
-			<ymin>90</ymin>
-			<xmax>370</xmax>
-			<ymax>535</ymax>
+			<xmin>83</xmin>
+			<ymin>113</ymin>
+			<xmax>135</xmax>
+			<ymax>205</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>343</xmin>
-			<ymin>262</ymin>
-			<xmax>683</xmax>
-			<ymax>745</ymax>
+			<xmin>388</xmin>
+			<ymin>279</ymin>
+			<xmax>437</xmax>
+			<ymax>385</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>380</xmin>
-			<ymin>101</ymin>
-			<xmax>677</xmax>
-			<ymax>267</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>5S</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>707</xmin>
-			<ymin>251</ymin>
-			<xmax>1049</xmax>
-			<ymax>727</ymax>
+			<xmin>402</xmin>
+			<ymin>121</ymin>
+			<xmax>444</xmax>
+			<ymax>221</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>700</xmin>
-			<ymin>100</ymin>
-			<xmax>1001</xmax>
-			<ymax>251</ymax>
+			<xmin>712</xmin>
+			<ymin>129</ymin>
+			<xmax>756</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>717</xmin>
+			<ymin>274</ymin>
+			<xmax>761</xmax>
+			<ymax>376</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1021</xmin>
-			<ymin>95</ymin>
-			<xmax>1361</xmax>
-			<ymax>533</ymax>
+			<xmin>1030</xmin>
+			<ymin>114</ymin>
+			<xmax>1075</xmax>
+			<ymax>213</ymax>
 		</bndbox>
 	</object>
 </annotation>
