@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>DSC_0606.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_0606.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>80</ymin>
+			<xmax>663</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>100</ymin>
+			<xmax>298</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

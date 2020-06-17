@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>DSC_flere26.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_flere26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>262</ymin>
+			<xmax>794</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>51</ymin>
+			<xmax>737</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>QS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>128</ymin>
+			<xmax>419</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

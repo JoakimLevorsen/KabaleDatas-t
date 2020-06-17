@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>DSC_0602.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_0602.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AC</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>258</ymin>
+			<xmax>874</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KD</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>244</ymin>
+			<xmax>585</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>QC</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>252</ymin>
+			<xmax>443</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

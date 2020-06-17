@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>IMG_9001.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\IMG_9001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>86</ymin>
+			<xmax>809</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>402</ymin>
+			<xmax>873</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>109</ymin>
+			<xmax>424</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

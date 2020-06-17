@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>IMG_8991.jpg</filename>
+	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\IMG_8991.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>251</ymin>
+			<xmax>590</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>246</ymin>
+			<xmax>592</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>569</xmin>
+			<ymin>147</ymin>
+			<xmax>715</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>
