@@ -1,0 +1,38 @@
+<annotation>
+	<folder>C_200</folder>
+	<filename>DSC_0634.jpg</filename>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\KabaleDatas-t\revamped_data\C_200\DSC_0634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>172</ymin>
+			<xmax>483</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>91</ymin>
+			<xmax>212</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

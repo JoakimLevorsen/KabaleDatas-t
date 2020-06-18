@@ -1,0 +1,38 @@
+<annotation>
+	<folder>C_200</folder>
+	<filename>DSC_0583.jpg</filename>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\KabaleDatas-t\revamped_data\C_200\DSC_0583.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>262</ymin>
+			<xmax>597</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>JH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>204</ymin>
+			<xmax>229</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
