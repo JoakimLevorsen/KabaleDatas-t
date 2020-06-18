@@ -1,62 +1,26 @@
 <annotation>
-	<folder>Billeder af kort - under 200KB</folder>
+	<folder>billeder2</folder>
 	<filename>DSC_flere31.jpg</filename>
-	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_flere31.jpg</path>
+	<path>C:\Users\Cecilie\Desktop\billeder2\DSC_flere31.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>432</width>
-		<height>768</height>
+		<width>768</width>
+		<height>432</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>BACK</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>157</xmin>
-			<ymin>161</ymin>
-			<xmax>427</xmax>
-			<ymax>346</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>BACK</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>182</xmin>
-			<ymin>354</ymin>
-			<xmax>432</xmax>
-			<ymax>516</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>BACK</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>178</xmin>
-			<ymin>519</ymin>
-			<xmax>432</xmax>
-			<ymax>649</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>5D</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>182</ymin>
-			<xmax>157</xmax>
-			<ymax>373</ymax>
+			<xmin>406</xmin>
+			<ymin>99</ymin>
+			<xmax>443</xmax>
+			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>82</xmin>
-			<ymin>371</ymin>
-			<xmax>179</xmax>
-			<ymax>452</ymax>
+			<xmin>317</xmin>
+			<ymin>94</ymin>
+			<xmax>354</xmax>
+			<ymax>158</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +41,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>58</xmin>
-			<ymin>448</ymin>
+			<xmin>142</xmin>
+			<ymin>68</ymin>
 			<xmax>179</xmax>
-			<ymax>633</ymax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>160</ymin>
+			<xmax>606</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>179</ymin>
+			<xmax>417</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>181</ymin>
+			<xmax>255</xmax>
+			<ymax>432</ymax>
 		</bndbox>
 	</object>
 </annotation>

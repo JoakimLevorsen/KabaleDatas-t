@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Billeder af kort - under 200KB</folder>
+	<folder>billeder2</folder>
 	<filename>DSC_flere25.jpg</filename>
-	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_flere25.jpg</path>
+	<path>C:\Users\Cecilie\Desktop\billeder2\DSC_flere25.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>JH</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>532</xmin>
-			<ymin>140</ymin>
-			<xmax>857</xmax>
-			<ymax>551</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>QH</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>172</xmin>
-			<ymin>19</ymin>
-			<xmax>437</xmax>
-			<ymax>390</ymax>
+			<xmin>177</xmin>
+			<ymin>32</ymin>
+			<xmax>227</xmax>
+			<ymax>125</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>273</xmin>
-			<ymin>384</ymin>
-			<xmax>532</xmax>
-			<ymax>544</ymax>
+			<xmin>476</xmin>
+			<ymin>165</ymin>
+			<xmax>556</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>JH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>150</ymin>
+			<xmax>661</xmax>
+			<ymax>237</ymax>
 		</bndbox>
 	</object>
 </annotation>

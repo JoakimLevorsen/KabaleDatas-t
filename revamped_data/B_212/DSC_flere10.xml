@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Billeder af kort - under 200KB</folder>
+	<folder>billeder2</folder>
 	<filename>DSC_flere10.jpg</filename>
-	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_flere10.jpg</path>
+	<path>C:\Users\Cecilie\Desktop\billeder2\DSC_flere10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>506</xmin>
-			<ymin>214</ymin>
-			<xmax>751</xmax>
-			<ymax>557</ymax>
+			<xmin>511</xmin>
+			<ymin>242</ymin>
+			<xmax>555</xmax>
+			<ymax>323</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>362</xmin>
-			<ymin>178</ymin>
-			<xmax>506</xmax>
-			<ymax>521</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>5D</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>507</xmin>
-			<ymin>14</ymin>
-			<xmax>726</xmax>
-			<ymax>168</ymax>
+			<xmin>368</xmin>
+			<ymin>205</ymin>
+			<xmax>422</xmax>
+			<ymax>294</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>234</xmin>
-			<ymin>219</ymin>
-			<xmax>362</xmax>
-			<ymax>552</ymax>
+			<xmin>245</xmin>
+			<ymin>229</ymin>
+			<xmax>287</xmax>
+			<ymax>323</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>333</xmin>
-			<ymin>46</ymin>
-			<xmax>508</xmax>
-			<ymax>178</ymax>
+			<xmin>341</xmin>
+			<ymin>72</ymin>
+			<xmax>384</xmax>
+			<ymax>157</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>222</xmin>
-			<ymin>52</ymin>
-			<xmax>335</xmax>
-			<ymax>219</ymax>
+			<xmin>230</xmin>
+			<ymin>61</ymin>
+			<xmax>277</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>514</xmin>
+			<ymin>36</ymin>
+			<xmax>555</xmax>
+			<ymax>118</ymax>
 		</bndbox>
 	</object>
 </annotation>

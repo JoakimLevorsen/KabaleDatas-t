@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Billeder af kort - under 200KB</folder>
+	<folder>billeder2</folder>
 	<filename>DSC_0644.jpg</filename>
-	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_0644.jpg</path>
+	<path>C:\Users\Cecilie\Desktop\billeder2\DSC_0644.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>576</height>
+		<width>576</width>
+		<height>1024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>492</xmin>
-			<ymin>154</ymin>
-			<xmax>974</xmax>
-			<ymax>477</ymax>
+			<xmin>134</xmin>
+			<ymin>509</ymin>
+			<xmax>180</xmax>
+			<ymax>632</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>245</xmin>
-			<ymin>149</ymin>
-			<xmax>489</xmax>
-			<ymax>467</ymax>
+			<xmin>138</xmin>
+			<ymin>257</ymin>
+			<xmax>192</xmax>
+			<ymax>397</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>64</xmin>
-			<ymin>119</ymin>
-			<xmax>243</xmax>
-			<ymax>440</ymax>
+			<xmin>162</xmin>
+			<ymin>78</ymin>
+			<xmax>222</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 </annotation>

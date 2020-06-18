@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Billeder af kort - under 200KB</folder>
+	<folder>billeder2</folder>
 	<filename>DSC_0650.jpg</filename>
-	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_0650.jpg</path>
+	<path>C:\Users\Cecilie\Desktop\billeder2\DSC_0650.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>JS</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>155</xmin>
-			<ymin>210</ymin>
-			<xmax>437</xmax>
-			<ymax>540</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>4S</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>612</xmin>
-			<ymin>186</ymin>
-			<xmax>947</xmax>
-			<ymax>552</ymax>
+			<xmin>703</xmin>
+			<ymin>196</ymin>
+			<xmax>757</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>JS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>228</ymin>
+			<xmax>210</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>198</xmin>
-			<ymin>68</ymin>
-			<xmax>403</xmax>
-			<ymax>224</ymax>
+			<xmin>234</xmin>
+			<ymin>83</ymin>
+			<xmax>261</xmax>
+			<ymax>123</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>402</xmin>
-			<ymin>9</ymin>
-			<xmax>572</xmax>
-			<ymax>170</ymax>
+			<xmin>421</xmin>
+			<ymin>15</ymin>
+			<xmax>454</xmax>
+			<ymax>56</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,22 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>553</xmin>
-			<ymin>47</ymin>
-			<xmax>709</xmax>
-			<ymax>156</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>6D</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>439</xmin>
-			<ymin>168</ymin>
-			<xmax>665</xmax>
-			<ymax>408</ymax>
+			<xmin>557</xmin>
+			<ymin>80</ymin>
+			<xmax>587</xmax>
+			<ymax>118</ymax>
 		</bndbox>
 	</object>
 </annotation>

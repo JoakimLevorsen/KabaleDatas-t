@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Billeder af kort - under 200KB</folder>
+	<folder>billeder2</folder>
 	<filename>DSC_0671.jpg</filename>
-	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_0671.jpg</path>
+	<path>C:\Users\Cecilie\Desktop\billeder2\DSC_0671.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>590</xmin>
-			<ymin>141</ymin>
-			<xmax>927</xmax>
-			<ymax>485</ymax>
+			<xmin>601</xmin>
+			<ymin>181</ymin>
+			<xmax>661</xmax>
+			<ymax>253</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>527</xmin>
-			<ymin>30</ymin>
-			<xmax>724</xmax>
-			<ymax>149</ymax>
+			<xmin>533</xmin>
+			<ymin>39</ymin>
+			<xmax>572</xmax>
+			<ymax>103</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>362</xmin>
-			<ymin>142</ymin>
-			<xmax>520</xmax>
-			<ymax>491</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>5D</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>373</xmin>
-			<ymin>36</ymin>
-			<xmax>527</xmax>
-			<ymax>141</ymax>
+			<xmin>372</xmin>
+			<ymin>176</ymin>
+			<xmax>427</xmax>
+			<ymax>253</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>148</xmin>
-			<ymin>131</ymin>
-			<xmax>363</xmax>
-			<ymax>445</ymax>
+			<xmin>208</xmin>
+			<ymin>139</ymin>
+			<xmax>250</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>41</ymin>
+			<xmax>420</xmax>
+			<ymax>113</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>219</xmin>
-			<ymin>38</ymin>
-			<xmax>371</xmax>
-			<ymax>131</ymax>
+			<xmin>237</xmin>
+			<ymin>45</ymin>
+			<xmax>283</xmax>
+			<ymax>112</ymax>
 		</bndbox>
 	</object>
 </annotation>

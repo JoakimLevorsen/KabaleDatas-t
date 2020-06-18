@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Billeder af kort - under 200KB</folder>
+	<folder>billeder2</folder>
 	<filename>DSC_0659.jpg</filename>
-	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_0659.jpg</path>
+	<path>C:\Users\Cecilie\Desktop\billeder2\DSC_0659.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>JC</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>320</xmin>
-			<ymin>199</ymin>
-			<xmax>584</xmax>
-			<ymax>557</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>9D</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>569</xmin>
-			<ymin>158</ymin>
-			<xmax>836</xmax>
-			<ymax>508</ymax>
+			<xmin>574</xmin>
+			<ymin>183</ymin>
+			<xmax>619</xmax>
+			<ymax>267</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>552</xmin>
-			<ymin>23</ymin>
-			<xmax>784</xmax>
-			<ymax>157</ymax>
+			<xmin>560</xmin>
+			<ymin>60</ymin>
+			<xmax>600</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>JC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>215</ymin>
+			<xmax>375</xmax>
+			<ymax>298</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>299</xmin>
-			<ymin>115</ymin>
-			<xmax>528</xmax>
-			<ymax>199</ymax>
+			<xmin>308</xmin>
+			<ymin>146</ymin>
+			<xmax>353</xmax>
+			<ymax>213</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>326</xmin>
-			<ymin>59</ymin>
-			<xmax>533</xmax>
-			<ymax>142</ymax>
+			<xmin>338</xmin>
+			<ymin>68</ymin>
+			<xmax>372</xmax>
+			<ymax>132</ymax>
 		</bndbox>
 	</object>
 </annotation>

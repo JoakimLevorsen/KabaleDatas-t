@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Billeder af kort - under 200KB</folder>
+	<folder>billeder2</folder>
 	<filename>DSC_0658.jpg</filename>
-	<path>C:\Users\Cecilie\OneDrive\Documents\CDIO\Billeder af kort - under 200KB\DSC_0658.jpg</path>
+	<path>C:\Users\Cecilie\Desktop\billeder2\DSC_0658.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>8S</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>678</xmin>
-			<ymin>100</ymin>
-			<xmax>942</xmax>
-			<ymax>389</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>8H</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>461</xmin>
-			<ymin>233</ymin>
-			<xmax>693</xmax>
-			<ymax>516</ymax>
+			<xmin>471</xmin>
+			<ymin>242</ymin>
+			<xmax>506</xmax>
+			<ymax>306</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>452</xmin>
-			<ymin>154</ymin>
-			<xmax>633</xmax>
-			<ymax>232</ymax>
+			<xmin>457</xmin>
+			<ymin>161</ymin>
+			<xmax>488</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>450</xmin>
-			<ymin>91</ymin>
-			<xmax>621</xmax>
-			<ymax>155</ymax>
+			<xmin>456</xmin>
+			<ymin>96</ymin>
+			<xmax>486</xmax>
+			<ymax>149</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>181</xmin>
-			<ymin>216</ymin>
-			<xmax>436</xmax>
-			<ymax>503</ymax>
+			<xmin>238</xmin>
+			<ymin>219</ymin>
+			<xmax>279</xmax>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>244</xmin>
-			<ymin>137</ymin>
-			<xmax>442</xmax>
-			<ymax>215</ymax>
+			<xmin>259</xmin>
+			<ymin>145</ymin>
+			<xmax>299</xmax>
+			<ymax>208</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +77,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>251</xmin>
-			<ymin>86</ymin>
-			<xmax>433</xmax>
-			<ymax>145</ymax>
+			<xmin>259</xmin>
+			<ymin>93</ymin>
+			<xmax>293</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>8S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>134</ymin>
+			<xmax>727</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 </annotation>
