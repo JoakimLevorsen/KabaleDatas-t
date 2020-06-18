@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Ny labelstrategi</folder>
+	<folder>revamped_data</folder>
 	<filename>DSC_0726_compress14.jpg</filename>
-	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\Ny labelstrategi\DSC_0726_compress14.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\KabaleDatas-t\revamped_data\DSC_0726_compress14.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,30 @@
 			<ymin>136</ymin>
 			<xmax>1082</xmax>
 			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>125</ymin>
+			<xmax>382</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>124</ymin>
+			<xmax>1039</xmax>
+			<ymax>544</ymax>
 		</bndbox>
 	</object>
 </annotation>

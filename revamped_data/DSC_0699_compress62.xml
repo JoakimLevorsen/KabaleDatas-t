@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Ny labelstrategi</folder>
+	<folder>revamped_data</folder>
 	<filename>DSC_0699_compress62.jpg</filename>
-	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\xml-filer\Ny labelstrategi\DSC_0699_compress62.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\KabaleDatas-t\revamped_data\DSC_0699_compress62.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -105,6 +105,54 @@
 			<ymin>324</ymin>
 			<xmax>991</xmax>
 			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>62</ymin>
+			<xmax>672</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>60</ymin>
+			<xmax>890</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>118</ymin>
+			<xmax>904</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BACK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>55</ymin>
+			<xmax>1127</xmax>
+			<ymax>111</ymax>
 		</bndbox>
 	</object>
 </annotation>
