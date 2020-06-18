@@ -1,7 +1,7 @@
 <annotation>
-	<folder>billeder2</folder>
+	<folder>Done</folder>
 	<filename>102325119_956968201391846_4159901072361021562_n.jpg</filename>
-	<path>C:\Users\Cecilie\Desktop\billeder2\102325119_956968201391846_4159901072361021562_n.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\KabaleDatas-t\revamped_data\Done\102325119_956968201391846_4159901072361021562_n.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -408,7 +408,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>!S</name>
+		<name>QS</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
