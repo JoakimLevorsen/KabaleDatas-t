@@ -1,7 +1,7 @@
 <annotation>
-	<folder>E_263</folder>
+	<folder>revamped_data</folder>
 	<filename>IMG_20200611_111530.jpg</filename>
-	<path>C:\Local_great_size\GitHub\KabaleDatas-t\revamped_data\E_263\IMG_20200611_111530.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\KabaleDatas-t\revamped_data\IMG_20200611_111530.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -44,7 +44,7 @@
 			<xmin>246</xmin>
 			<ymin>57</ymin>
 			<xmax>485</xmax>
-			<ymax>172</ymax>
+			<ymax>163</ymax>
 		</bndbox>
 	</object>
 	<object>

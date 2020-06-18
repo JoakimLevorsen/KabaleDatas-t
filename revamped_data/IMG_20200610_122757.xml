@@ -1,7 +1,7 @@
 <annotation>
-	<folder>img</folder>
+	<folder>revamped_data</folder>
 	<filename>IMG_20200610_122757.jpg</filename>
-	<path>C:\Users\Christoffer\Desktop\img\IMG_20200610_122757.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\KabaleDatas-t\revamped_data\IMG_20200610_122757.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>KS</name>
+		<name>KC</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

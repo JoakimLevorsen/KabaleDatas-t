@@ -1,7 +1,7 @@
 <annotation>
-	<folder>E_263</folder>
+	<folder>revamped_data</folder>
 	<filename>IMG_20200611_110438.jpg</filename>
-	<path>C:\Local_great_size\GitHub\KabaleDatas-t\revamped_data\E_263\IMG_20200611_110438.jpg</path>
+	<path>C:\Users\idac1\Documents\DTU\4. Semester\62410 - CDIO-Projekt\KabaleDatas-t\revamped_data\IMG_20200611_110438.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,18 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>KD</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>293</xmin>
-			<ymin>234</ymin>
-			<xmax>364</xmax>
-			<ymax>267</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>8S</name>
 		<pose>Unspecified</pose>
